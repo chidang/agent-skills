@@ -147,6 +147,9 @@ node eval/harness/run.mjs
 - [Packaging](docs/packaging.md) - Build and distribution
 - [Compatibility Policy](docs/compatibility-policy.md) - Version targeting
 
+## Example:
+Make a wordpress plugin that creates testimonials with a star rating called "My Testimonials" that has a heading for the person's name, a description, the stars, and a select field for the job title (president, vice president, founder, and salesperson), using the wp-plugin development skill
+
 ## License
 
 GPL-2.0-or-later
